@@ -32,6 +32,6 @@ const results1 = map(words, word => word[0]);
 console.log(results1);
 
 
-
-
 //assertArraysEqual(map(["ground", "control", "to", "major", "tom"], results1));
+
+module.exports = map;
