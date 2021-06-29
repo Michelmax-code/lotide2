@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@miguelangel9/lotide",
+  "version": "2.0.0",
+  "description": "excellent support for basics functions",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Michelmax-code/lotide2.git"
   },
-  "author": "",
+  "author": "Miguel Angel Jimenez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Michelmax-code/lotide2/issues"
